@@ -1,0 +1,8 @@
+site_name: "ssr-sample-application"
+site_description: "this is a demonstration of an SSR based application with github workflows"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

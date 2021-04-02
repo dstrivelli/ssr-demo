@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "ssr-sample-application"
-  description: "this is a demonstration of an SSR based application with github workflows"
+  description: "this is a demonstration of an SSR based <u>application with github workflows</u>"
   annotations:
     github.com/project-slug: dstrivelli/ssr-demo
     backstage.io/techdocs-ref: url:https://github.com/dstrivelli/ssr-demo
